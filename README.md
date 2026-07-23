@@ -139,26 +139,6 @@
   <img src="https://img.shields.io/badge/Achievement-IT_Systems_Expert-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="IT Systems Expert" />
 </p>
 
----
-
-### 🎵 Current Cyber Track
-
-<p align="center">
-  <pre>
-┌──────────────────────────────────────────────┐
-│  🎧 Spotify Active Session                   │
-├──────────────────────────────────────────────┤
-│  🔊 Now Playing: Coding in the Matrix        │
-│  👤 Artist: Synthwave AI                     │
-│  💿 Album: Cybernetic Symphony (2026)        │
-│  ⏮  ||  ⏭   02:45 / 04:20                    │
-│  ━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━       │
-└──────────────────────────────────────────────┘
-  </pre>
-</p>
-
----
-
 ### 🌐 Secure Hyperlink Ports
 
 <p align="center">
