@@ -4,12 +4,38 @@
 </p>
 
 <!-- Interactive Sub-Header / Status Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Status-Online_🟢-0f172a?style=for-the-badge&logo=statuspage&logoColor=00ff00" alt="System Status" />
-  <img src="https://komarev.com/ghpvc/?username=cloudy0903&color=00f0ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Indonesia_🇮🇩-0f172a?style=for-the-badge&logo=googlemaps&logoColor=00f0ff" alt="Location" />
-  <img src="https://img.shields.io/badge/Main_Core-Active_⚡-0f172a?style=for-the-badge&logo=microchip&logoColor=0072ff" alt="Main Core" />
-</p>
+<table align="center">
+  <tr valign="top">
+    <td align="center" width="180">
+      <img src="https://api.iconify.design/lucide/server.svg?color=%2300ff00&width=32&height=32" alt="Server" />
+      <br/><br/>
+      <b>System Status</b>
+      <br/>
+      <font color="#00ff00">Online 🟢</font>
+    </td>
+    <td align="center" width="180">
+      <img src="https://api.iconify.design/lucide/eye.svg?color=%2300f0ff&width=32&height=32" alt="Views" />
+      <br/><br/>
+      <b>Profile Views</b>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=cloudy0903&color=00f0ff&style=flat-square&label=" alt="Views" />
+    </td>
+    <td align="center" width="180">
+      <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2300f0ff&width=32&height=32" alt="Location" />
+      <br/><br/>
+      <b>Location</b>
+      <br/>
+      Indonesia 🇮🇩
+    </td>
+    <td align="center" width="180">
+      <img src="https://api.iconify.design/lucide/cpu.svg?color=%230072ff&width=32&height=32" alt="Core" />
+      <br/><br/>
+      <b>Main Core</b>
+      <br/>
+      <font color="#0072ff">Active ⚡</font>
+    </td>
+  </tr>
+</table>
 
 <!-- Typing Animation Section -->
 <p align="center">
