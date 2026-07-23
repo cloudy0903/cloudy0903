@@ -50,36 +50,38 @@
 ### 🛠️ Tech Arsenal
 
 <table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🖥️ Frontend Core</h4>
-      <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=00f0ff" />
-      <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff" />
+  <tr valign="top">
+    <td align="center" width="33%">
+      <h4>🖥️ Frontend & UI/UX</h4>
       <br/>
+      <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=00f0ff" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=00f0ff" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=00f0ff" />
     </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend Architecture</h4>
-      <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=00f0ff" />
-      <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff" />
+    <td align="center" width="33%">
+      <h4>⚙️ Backend Systems</h4>
       <br/>
+      <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=00f0ff" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=00f0ff" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Storage & Database</h4>
+    <td align="center" width="34%">
+      <h4>☁️ Storage & DevOps</h4>
+      <br/>
       <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00f0ff" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=00f0ff" />
-      <br/>
-      <img src="https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=00f0ff" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ Cloud & DevOps</h4>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=00f0ff" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=00f0ff" />
-      <br/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=00f0ff" />
     </td>
   </tr>
