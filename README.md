@@ -130,8 +130,13 @@
   </tr>
 </table>
 
+<h4 align="center">🏆 System Achievements</h4>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cloudy0903&theme=tokyonight" alt="GitHub Profile Trophy" />
+  <img src="https://img.shields.io/badge/Achievement-Verified_Digital_Creator-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="Verified Digital Creator" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Achievement-Full--Stack_Developer-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="Full-Stack Developer" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Achievement-IT_Systems_Expert-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="IT Systems Expert" />
 </p>
 
 ### 🌐 Secure Hyperlink Ports
