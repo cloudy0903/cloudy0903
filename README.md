@@ -116,7 +116,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=cloudy0903&show_icons=true&bg_color=0f172a&title_color=00f0ff&text_color=e2e8f0&icon_color=00e5ff&border_color=00f0ff&border_radius=10" alt="Sugiyanto's GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=cloudy0903&show_icons=true&bg_color=0f172a&title_color=00f0ff&text_color=e2e8f0&icon_color=00e5ff&border_color=00f0ff&border_radius=10" alt="Sugiyanto's GitHub Stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudy0903&theme=tokyonight&background=0f172a&fire=00f0ff&ring=00e5ff&currRing=00e5ff&border=00f0ff&text=e2e8f0&sideLabels=e2e8f0&sideNums=00f0ff&currStreakLabel=e2e8f0&currStreakNum=00f0ff" alt="Sugiyanto's GitHub Streak" />
@@ -125,13 +125,13 @@
   <tr>
     <td align="center" colspan="2">
       <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudy0903&layout=compact&bg_color=0f172a&title_color=00f0ff&text_color=e2e8f0&icon_color=00e5ff&border_color=00f0ff&border_radius=10" alt="Sugiyanto's Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cloudy0903&layout=compact&bg_color=0f172a&title_color=00f0ff&text_color=e2e8f0&icon_color=00e5ff&border_color=00f0ff&border_radius=10" alt="Sugiyanto's Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cloudy0903&theme=tokyonight&margin-w=15&no-background=true&no-frame=true" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cloudy0903&theme=tokyonight" alt="GitHub Profile Trophy" />
 </p>
 
 ### 🌐 Secure Hyperlink Ports
