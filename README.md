@@ -47,45 +47,39 @@
 
 ---
 
-### 🛠️ Tech Arsenal
+# 🚀 Tech Stack
 
-<table align="center" width="100%">
-  <tr valign="top">
-    <td align="center" width="33%">
-      <h4>🖥️ Frontend & UI/UX</h4>
-      <br/>
-      <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=00f0ff" />
-    </td>
-    <td align="center" width="33%">
-      <h4>⚙️ Backend Systems</h4>
-      <br/>
-      <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=00f0ff" />
-    </td>
-    <td align="center" width="34%">
-      <h4>☁️ Storage & DevOps</h4>
-      <br/>
-      <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=00f0ff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=00f0ff" />
-    </td>
-  </tr>
-</table>
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" alt="Frontend Stack" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend Stack" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Database Stack" />
+</p>
+
+### DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" alt="DevOps Stack" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm" alt="Tools Stack" />
+</p>
+
+---
 
 ### 📊 GitHub Diagnostics & Activity
 
