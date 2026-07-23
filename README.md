@@ -1,6 +1,6 @@
 <!-- Hero Banner Section with holographic gradient waving -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0072ff,100:00f0ff&height=220&section=header&text=SUGIYANTO%20PRASETIO&fontSize=42&fontColor=ffffff&desc=%E2%9A%A1%20AI%20Software%20Engineer%20%7C%20Full%20Stack%20Architect%20%E2%9A%A1&descSize=16&descAlignY=62&animation=twinkle" alt="Sugiyanto Prasetio Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0072ff,100:00f0ff&height=220&section=header&text=SUGIYANTO%20PRASETIO&fontSize=42&fontColor=ffffff&desc=End-to-End%20Digital%20Creator%20%7C%20Full-Stack%20Web%20Developer%20%26%20UI%2FUX%20Designer%20%7C%20IT%20Support%20%7C%20Social%20Media%20Specialist&descSize=12&descAlignY=62&animation=twinkle" alt="Sugiyanto Prasetio Hero Banner" />
 </p>
 
 <!-- Interactive Sub-Header / Status Badges -->
@@ -13,7 +13,7 @@
 
 <!-- Typing Animation Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&background=0F172A00&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Open+Source+Contributor;Full+Stack+Developer;Laravel+Developer;React+Developer;AI+Enthusiast;Building+Modern+Web+Apps;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&background=0F172A00&center=true&vCenter=true&width=600&height=50&lines=End-to-End+Digital+Creator;Full-Stack+Web+Developer;UI-UX+Designer;IT+Support+Specialist;Social+Media+Specialist;Building+Scalable+Apps;Creating+Stunning+Designs" alt="Typing Animation" />
 </p>
 
 ---
@@ -28,9 +28,9 @@
     "origin": "Indonesia 🇮🇩"
   },
   "core_focus": {
-    "primary": "AI Software Engineering & Agent Architectures",
-    "secondary": "Full Stack System Architecture",
-    "passion": ["AI Agents", "Model Context Protocol (MCP)", "UI/UX Synthesis", "Scalable Backends"]
+    "primary": "Full-Stack Web Development & UI/UX Design",
+    "secondary": "End-to-End Digital Creation & IT Support",
+    "passion": ["Web Development", "UI/UX Design", "Social Media Specialist", "IT Systems & Support"]
   },
   "education": {
     "degree": "Bachelor of Information Systems",
@@ -157,7 +157,7 @@ gitGraph
       <h4>🧠 Live Resource Allocations</h4>
       <pre>
 COGNITIVE LOAD:
-[■■■■■■■■■■■■■■■■░░░░] 80% (AI Agent Work)
+[■■■■■■■■■■■■■■■■░░░░] 80% (Creative & Dev Flow)
 
 CACHE MEMORY:
 [■■■■■■■■■■■■░░░░░░░░] 60% (Context Protocols)
@@ -172,17 +172,17 @@ SYSTEM TEMPERATURE:
     <td width="50%" valign="top">
       <h4>📚 Learning Vectors</h4>
       <pre>
-AI Engineering & LLMs
-██████████████░░░░ 75%
+Full-Stack Development
+██████████████████ 95%
 
-TypeScript & Scalability
-█████████████████░ 90%
-
-React & Virtual DOM
+UI/UX Design
 ████████████████░░ 85%
 
-Laravel & Livewire
-██████████████████ 95%
+IT Systems & Support
+█████████████████░ 90%
+
+Digital Creation & Media
+██████████████░░░░ 70%
       </pre>
     </td>
   </tr>
