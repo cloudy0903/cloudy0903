@@ -85,36 +85,6 @@
   </tr>
 </table>
 
----
-
-### 🌿 Git Flow Journey (Projects & Milestones)
-
-Here is a visual branch representation of my key developments:
-
-```mermaid
-gitGraph
-    commit id: "Init Base"
-    commit id: "Archive-Management"
-    branch feature/thesis
-    checkout feature/thesis
-    commit id: "Smart-Thesis-System"
-    checkout main
-    merge feature/thesis tag: "Thesis-Sys-v1.0"
-    branch feature/clinic
-    checkout feature/clinic
-    commit id: "Dental-Clinic-System"
-    checkout main
-    merge feature/clinic tag: "Clinic-Sys-v2.0"
-    branch feature/ai
-    checkout feature/ai
-    commit id: "GoSE-CLI-Helper"
-    commit id: "AI-Autonomous-Agent"
-    checkout main
-    merge feature/ai tag: "AI-Suite-v3.0"
-```
-
----
-
 ### 📊 GitHub Diagnostics & Activity
 
 <p align="center">
@@ -141,100 +111,6 @@ gitGraph
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cloudy0903&theme=tokyonight&margin-w=15&no-background=true&no-frame=true" alt="GitHub Profile Trophy" />
 </p>
-
----
-
-### ⭐ Featured Open Source Repositories
-
-| Project | Description | Primary Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🤖 **GOSE CLI** | Interactive terminal helper powered by LLMs. | TypeScript, Node.js | [Explore Repo](https://github.com/cloudy0903) |
-| 🏥 **Dental Care** | Enterprise-grade Clinic & Patient Management. | React, Laravel | [Explore Repo](https://github.com/cloudy0903) |
-| 🎓 **Smart Thesis** | Academic workflows & automatic progress auditor. | Next.js, MySQL | [Explore Repo](https://github.com/cloudy0903) |
-| 📦 **Archive System** | Fast, secure digital file indexing and archiving. | Laravel, Bootstrap | [Explore Repo](https://github.com/cloudy0903) |
-
----
-
-### ⚡ System Resources & Core Progress
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 Live Resource Allocations</h4>
-      <pre>
-COGNITIVE LOAD:
-[■■■■■■■■■■■■■■■■░░░░] 80% (Creative & Dev Flow)
-
-CACHE MEMORY:
-[■■■■■■■■■■■■░░░░░░░░] 60% (Context Protocols)
-
-NETWORK SYNC:
-[■■■■■■■■■■■■■■■■■■░░] 90% (GitHub Clones)
-
-SYSTEM TEMPERATURE:
-[■■■■■■■■░░░░░░░░░░░░] 40% (Cooling Optimal)
-      </pre>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 Learning Vectors</h4>
-      <pre>
-Full-Stack Development
-██████████████████ 95%
-
-UI/UX Design
-████████████████░░ 85%
-
-IT Systems & Support
-█████████████████░ 90%
-
-Digital Creation & Media
-██████████████░░░░ 70%
-      </pre>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎵 Current Cyber Track
-
-<p align="center">
-  <pre>
-┌──────────────────────────────────────────────┐
-│  🎧 Spotify Active Session                   │
-├──────────────────────────────────────────────┤
-│  🔊 Now Playing: Coding in the Matrix        │
-│  👤 Artist: Synthwave AI                     │
-│  💿 Album: Cybernetic Symphony (2026)        │
-│  ⏮  ||  ⏭   02:45 / 04:20                    │
-│  ━━━━━━━●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━       │
-└──────────────────────────────────────────────┘
-  </pre>
-</p>
-
----
-
-<!-- 
-### 🐍 Contribution Grid Crawler
-Untuk mengaktifkan animasi ular, harap ikuti panduan di chat dan buat workflow .github/workflows/snake.yml
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cloudy0903/cloudy0903/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
--->
-
----
-
-### 💬 System Loop
-
-```javascript
-while (alive) {
-    learn();
-    build();
-    share();
-}
-```
-
----
 
 ### 🌐 Secure Hyperlink Ports
 
