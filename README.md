@@ -5,10 +5,10 @@
 
 <!-- Interactive Sub-Header / Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/System_Status-Online_🟢-00ff00?style=flat-square" alt="System Status" />
-  <img src="https://komarev.com/ghpvc/?username=cloudy0903&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Indonesia_🇮🇩-00f0ff?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Main_Core-Active_⚡-0072ff?style=flat-square" alt="Main Core" />
+  <img src="https://img.shields.io/badge/System_Status-Online_🟢-0f172a?style=for-the-badge&logo=statuspage&logoColor=00ff00" alt="System Status" />
+  <img src="https://komarev.com/ghpvc/?username=cloudy0903&color=00f0ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Indonesia_🇮🇩-0f172a?style=for-the-badge&logo=googlemaps&logoColor=00f0ff" alt="Location" />
+  <img src="https://img.shields.io/badge/Main_Core-Active_⚡-0f172a?style=for-the-badge&logo=microchip&logoColor=0072ff" alt="Main Core" />
 </p>
 
 <!-- Typing Animation Section -->
