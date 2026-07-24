@@ -139,6 +139,18 @@
   <img src="https://img.shields.io/badge/Achievement-IT_Systems_Expert-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="IT Systems Expert" />
 </p>
 
+---
+
+### 🎵 Audio Diagnostics: Spotify Activity
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31xj7lk7v2xluytk7nbiejtaeit4" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xj7lk7v2xluytk7nbiejtaeit4&count=3" alt="Spotify recently played" width="400" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Secure Hyperlink Ports
 
 <p align="center">
