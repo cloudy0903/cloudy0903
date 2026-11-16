@@ -1,0 +1,36 @@
+name: Daily Contribution Sync
+
+on:
+  schedule:
+    # Berjalan setiap hari pukul 02:00 UTC (09:00 WIB)
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Memungkinkan eksekusi manual via tab Actions di GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  sync-contribution:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "cloudy0903"
+          git config --global user.email "prstosugi@gmail.com"
+
+      - name: Append contribution sync timestamp
+        run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%S")
+          echo "Contribution sync: ${TIMESTAMP}" >> contributions.txt
+
+      - name: Commit and push changes
+        run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%S")
+          git add contributions.txt
+          git commit -m "docs: system contribution sync ${TIMESTAMP}"
+          git push origin main
