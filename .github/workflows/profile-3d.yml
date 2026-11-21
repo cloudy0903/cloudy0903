@@ -4,6 +4,9 @@ on:
   schedule:
     # Berjalan otomatis setiap hari pukul 18:00 UTC (01:00 WIB)
     - cron: "0 18 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch: # Memungkinkan eksekusi manual via tab Actions di GitHub
 
 permissions:
