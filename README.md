@@ -1,178 +1,107 @@
-<!-- Hero Banner Section with holographic gradient waving -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0072ff,100:00f0ff&height=220&section=header&text=SUGIYANTO%20PRASETIO&fontSize=42&fontColor=ffffff&desc=End-to-End%20Digital%20Creator%20%7C%20Full-Stack%20Web%20Developer%20and%20UI%2FUX%20Designer%20%7C%20IT%20Support%20%7C%20Social%20Media%20Specialist&descSize=12&descAlignY=62&animation=twinkle" alt="Sugiyanto Prasetio Hero Banner" />
-</p>
+<div align="center">
 
-<!-- Interactive Sub-Header / Status Badges -->
-<table align="center">
-  <tr valign="top">
-    <td align="center" width="180">
-      <img src="https://api.iconify.design/lucide/server.svg?color=%2300ff00&width=32&height=32" alt="Server" />
-      <br/><br/>
-      <b>System Status</b>
-      <br/>
-      <font color="#00ff00">Online 🟢</font>
-    </td>
-    <td align="center" width="180">
-      <img src="https://api.iconify.design/lucide/eye.svg?color=%2300f0ff&width=32&height=32" alt="Views" />
-      <br/><br/>
-      <b>Profile Views</b>
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=cloudy0903&color=00f0ff&style=flat-square&label=" alt="Views" />
-    </td>
-    <td align="center" width="180">
-      <img src="https://api.iconify.design/lucide/map-pin.svg?color=%2300f0ff&width=32&height=32" alt="Location" />
-      <br/><br/>
-      <b>Location</b>
-      <br/>
-      Indonesia 🇮🇩
-    </td>
-    <td align="center" width="180">
-      <img src="https://api.iconify.design/lucide/cpu.svg?color=%230072ff&width=32&height=32" alt="Core" />
-      <br/><br/>
-      <b>Main Core</b>
-      <br/>
-      <font color="#0072ff">Active ⚡</font>
-    </td>
-  </tr>
-</table>
-
-<!-- Typing Animation Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&background=0F172A00&center=true&vCenter=true&width=600&height=50&lines=End-to-End+Digital+Creator;Full-Stack+Web+Developer;UI-UX+Designer;IT+Support+Specialist;Social+Media+Specialist;Building+Scalable+Apps;Creating+Stunning+Designs" alt="Typing Animation" />
-</p>
-
-<p align="center">
+  <!-- Typing SVG Dynamic Header -->
   <a href="https://github.com/cloudy0903">
-    <img src="https://img.shields.io/github/followers/cloudy0903?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=560&height=52&lines=Halo%2C+saya+Sugiyanto+Prasetio+%F0%9F%91%8B;Full-Stack+Web+Developer;AI+%26+Automation+Enthusiast;IT+Specialist+%26+Systems+Builder" alt="Typing SVG Animation" />
   </a>
-</p>
 
----
+  <p>
+    <b>Passionate Software Engineer & Systems Builder</b> based in Indonesia 🇮🇩<br/>
+    Specializing in resilient web applications, intelligent automation, and human-grade digital solutions.
+  </p>
 
-### 📡 System Diagnostics: Profile.json
+  <p>
+    <a href="https://linkedin.com/in/sugiyanto-prasetio" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=00f7ff" alt="LinkedIn" />
+    </a>
+    <a href="https://cloudy0903.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=firefox&logoColor=00f7ff" alt="Portfolio" />
+    </a>
+    <a href="mailto:sugiyantoprasetio.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=00f7ff" alt="Email" />
+    </a>
+    <a href="https://github.com/cloudy0903?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-0f172a?style=flat-square&logo=github&logoColor=00f7ff" alt="Repositories" />
+    </a>
+  </p>
 
-```json
-{
-  "identity": {
-    "name": "Sugiyanto Prasetio",
-    "codename": "cloudy0903",
-    "origin": "Indonesia 🇮🇩"
-  },
-  "core_focus": {
-    "primary": "Full-Stack Web Development & UI/UX Design",
-    "secondary": "End-to-End Digital Creation & IT Support",
-    "passion": ["Web Development", "UI/UX Design", "Social Media Specialist", "IT Systems & Support"]
-  },
-  "education": {
-    "degree": "Bachelor of Information Systems",
-    "status": "Active / Continuously Learning 🧠"
-  }
-}
-```
+  ---
 
----
+  ### 🧊 3D Isometric Contribution Graph
 
-# 🚀 Tech Stack
+  <!-- GitHub 3D Contribution Graph Render (Dark/Light responsive) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D Isometric Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
 
-### Frontend
+  ---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" alt="Frontend Stack" />
-</p>
+  ### 🚀 Featured Engineering & Open Source
 
-### Backend
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🤖 <a href="https://github.com/cloudy0903/AI-Cli">AI-Cli</a></h4>
+        <p>Sistem agen kecerdasan buatan berbasis CLI untuk mengotomatisasi seluruh siklus hidup pengembangan perangkat lunak (SDLC) dari konsep hingga <i>ready-to-deploy</i>.</p>
+        <p><code>Python</code> • <code>AI Agents</code> • <code>Automation</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>💳 <a href="https://github.com/cloudy0903/Sistem-POS">Sistem POS</a></h4>
+        <p>Sistem informasi Point of Sale (POS) modern dan skalabel yang dirancang untuk mendukung operasional multi-sektor usaha secara efisien.</p>
+        <p><code>Web App</code> • <code>Database</code> • <code>Enterprise</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>⚡ <a href="https://github.com/cloudy0903/QR_Genegator">QR Generator</a></h4>
+        <p>Aplikasi web interaktif berkinerja tinggi untuk pembuatan kode QR kustom secara instan dan responsif.</p>
+        <p><code>Svelte</code> • <code>TypeScript</code> • <code>Reactive UI</code></p>
+      </td>
+      <td width="50%" valign="top">
+        <h4>💈 <a href="https://github.com/cloudy0903/BarberShop">BarberShop Platform</a></h4>
+        <p>Antarmuka web modern dengan kecepatan loading maksimal menggunakan arsitektur content-driven islands.</p>
+        <p><code>Astro</code> • <code>Tailwind CSS</code> • <code>UI/UX</code></p>
+      </td>
+    </tr>
+  </table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" alt="Backend Stack" />
-</p>
+  ---
 
-### Database
+  ### 🛠️ Tech Stack & Ecosystem
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Database Stack" />
-</p>
+  <p><b>Languages & Core:</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts,js,python,php,html,css" alt="Languages" />
+  </p>
 
-### DevOps
+  <p><b>Frontend & UI Frameworks:</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,astro,tailwind" alt="Frontend" />
+  </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel" alt="DevOps Stack" />
-</p>
+  <p><b>Backend & Databases:</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,mongodb" alt="Backend and DB" />
+  </p>
 
-### Tools
+  <p><b>DevOps & Environment:</b></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman" alt="DevOps and Tools" />
+  </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm" alt="Tools Stack" />
-</p>
+  ---
 
----
+  ### 📊 GitHub Activity Telemetry
 
-### 📊 GitHub Diagnostics & Activity
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=cloudy0903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=e2e8f0" alt="GitHub Stats" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudy0903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=e2e8f0" alt="Top Languages" />
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cloudy0903&bg_color=0f172a&color=00f0ff&line=0072ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+  <br/>
+  <sub>Designed with precision • <b>Sugiyanto Prasetio</b> (@cloudy0903)</sub>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=cloudy0903&show_icons=true&bg_color=0f172a&title_color=00f0ff&text_color=e2e8f0&icon_color=00e5ff&border_color=00f0ff&border_radius=10" alt="Sugiyanto's GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudy0903&theme=tokyonight&background=0f172a&fire=00f0ff&ring=00e5ff&currRing=00e5ff&border=00f0ff&text=e2e8f0&sideLabels=e2e8f0&sideNums=00f0ff&currStreakLabel=e2e8f0&currStreakNum=00f0ff" alt="Sugiyanto's GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br />
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cloudy0903&layout=compact&bg_color=0f172a&title_color=00f0ff&text_color=e2e8f0&icon_color=00e5ff&border_color=00f0ff&border_radius=10" alt="Sugiyanto's Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<h4 align="center">🏆 System Achievements</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Verified_Digital_Creator-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="Verified Digital Creator" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Achievement-Full--Stack_Developer-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="Full-Stack Developer" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Achievement-IT_Systems_Expert-0f172a?style=for-the-badge&logo=codeforces&logoColor=00f0ff" alt="IT Systems Expert" />
-</p>
-
----
-
-### 🎵 Audio Diagnostics: Spotify Activity
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31xj7lk7v2xluytk7nbiejtaeit4" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xj7lk7v2xluytk7nbiejtaeit4&count=3" alt="Spotify recently played" width="400" />
-  </a>
-</p>
-
----
-
-### 🌐 Secure Hyperlink Ports
-
-<p align="center">
-  <a href="https://github.com/cloudy0903" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/sugiyanto-prasetio" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="LinkedIn" />
-  </a>
-  <a href="https://cloudy0903.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=safari&logoColor=00f0ff" alt="Portfolio" />
-  </a>
-  <a href="mailto:sugiyantoprasetio.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00f0ff" alt="Email" />
-  </a>
-  <a href="https://instagram.com/sugiyantoprasetio" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=00f0ff" alt="Instagram" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Made with ❤️ by <b>Sugiyanto Prasetio</b> • Building the Future with Code</sub>
-</p>
+</div>
